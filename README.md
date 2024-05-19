@@ -1,13 +1,13 @@
-#Software Name: IntegrityAssure 1.0
+Software Name: IntegrityAssure 1.0
 
-#Developers: 
+Developers: 
             IT21226496 / Gunasekara W.M.M
             IT21298608 / Senevirathna D.H
 
-#Description:
+Description:
 IntegrityAssure 1.0 is a robust software integrity checking tool designed to safeguard your devices from potential threats. With IntegrityAssure, you can verify the integrity and legitimacy of the software, ensuring that it is free of harmful trojans and malwares.
 
-#Setup Instructions:
+Setup Instructions:
 
     Ensure you have Python installed on your system.
     Clone the repository to your local machine.
@@ -17,7 +17,7 @@ IntegrityAssure 1.0 is a robust software integrity checking tool designed to saf
     Run main.py using Python.
     Follow the on-screen instructions to register/login and verify software integrity.
 
-#Testing:
+Testing:
 
     After setup, run the software.
     Register or log in with existing credentials.
@@ -25,8 +25,9 @@ IntegrityAssure 1.0 is a robust software integrity checking tool designed to saf
     Review the test results and reports generated.
     Ensure functionality matches described features.
 
-#Additional Resources:
+Additional Resources:
 
     common_passwords.csv: Dataset of common passwords.
     logo7.png: Background image for the GUI.
     requirements.txt: List of required Python packages.
+    
